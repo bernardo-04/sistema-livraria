@@ -1,0 +1,165 @@
+{
+    "bookId": 21,
+    "books": [
+        {
+            "id": 1,
+            "titulo": "Dom Quixote",
+            "autor": "Miguel de Cervantes",
+            "ano": 1605,
+            "numPaginas": 863,
+            "valor": 128
+        },
+        {
+            "id": 2,
+            "titulo": "Romeu e Julieta",
+            "autor": "William Shakespeare",
+            "ano": 1597,
+            "numPaginas": 240,
+            "valor": 71
+        },
+        {
+            "id": 3,
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "ano": 1949,
+            "numPaginas": 328,
+            "valor": 163
+        },
+        {
+            "id": 4,
+            "titulo": "A Arte da Guerra",
+            "autor": "Sun Tzu",
+            "ano": -500,
+            "numPaginas": 62,
+            "valor": 42
+        },
+        {
+            "id": 5,
+            "titulo": "Cem Anos de Solidão",
+            "autor": "Gabriel García Márquez",
+            "ano": 1967,
+            "numPaginas": 417,
+            "valor": 124
+        },
+        {
+            "id": 6,
+            "titulo": "O Senhor dos Anéis",
+            "autor": "J.R.R. Tolkien",
+            "ano": 1954,
+            "numPaginas": 1178,
+            "valor": 98
+        },
+        {
+            "id": 7,
+            "titulo": "Crime e Castigo",
+            "autor": "Fiódor Dostoiévski",
+            "ano": 1866,
+            "numPaginas": 551,
+            "valor": 149
+        },
+        {
+            "id": 8,
+            "titulo": "A Metamorfose",
+            "autor": "Franz Kafka",
+            "ano": 1915,
+            "numPaginas": 55,
+            "valor": 85
+        },
+        {
+            "id": 9,
+            "titulo": "Ulisses",
+            "autor": "James Joyce",
+            "ano": 1922,
+            "numPaginas": 732,
+            "valor": 172
+        },
+        {
+            "id": 10,
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "ano": 1943,
+            "numPaginas": 96,
+            "valor": 57
+        },
+        {
+            "id": 11,
+            "titulo": "Moby Dick",
+            "autor": "Herman Melville",
+            "ano": 1851,
+            "numPaginas": 635,
+            "valor": 112
+        },
+        {
+            "id": 12,
+            "titulo": "Apanhador no Campo de Centeio",
+            "autor": "J.D. Salinger",
+            "ano": 1951,
+            "numPaginas": 277,
+            "valor": 73
+        },
+        {
+            "id": 13,
+            "titulo": "A Odisséia",
+            "autor": "Homero",
+            "ano": -800,
+            "numPaginas": 416,
+            "valor": 187
+        },
+        {
+            "id": 14,
+            "titulo": "Guerra e Paz",
+            "autor": "Lev Tolstói",
+            "ano": 1869,
+            "numPaginas": 1225,
+            "valor": 55
+        },
+        {
+            "id": 15,
+            "titulo": "A Divina Comédia",
+            "autor": "Dante Alighieri",
+            "ano": 1320,
+            "numPaginas": 798,
+            "valor": 103
+        },
+        {
+            "id": 16,
+            "titulo": "O Morro dos Ventos Uivantes",
+            "autor": "Emily Brontë",
+            "ano": 1847,
+            "numPaginas": 342,
+            "valor": 67
+        },
+        {
+            "id": 17,
+            "titulo": "A Revolução dos Bichos",
+            "autor": "George Orwell",
+            "ano": 1945,
+            "numPaginas": 112,
+            "valor": 84
+        },
+        {
+            "id": 18,
+            "titulo": "O Retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "ano": 1890,
+            "numPaginas": 254,
+            "valor": 129
+        },
+        {
+            "id": 19,
+            "titulo": "O Nome da Rosa",
+            "autor": "Umberto Eco",
+            "ano": 1980,
+            "numPaginas": 503,
+            "valor": 176
+        },
+        {
+            "id": 20,
+            "titulo": "O Grande Gatsby",
+            "autor": "F. Scott Fitzgerald",
+            "ano": 1925,
+            "numPaginas": 180,
+            "valor": 62
+        }
+    ]
+}
